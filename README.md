@@ -1,5 +1,35 @@
 # Tech Ed Bootcamp  
-  
+
+# Introduction: General information about growth mindset and a little bit about myself.  
+## Table of contents:  
+### 201
+- [class01](./201/class01.md)   
+- [class02](./201/class02.md)   
+- [class03](./201/class03.md)    
+- [class04](./201/class04.md)    
+- [class05](./201/class05.md)    
+- [class06](./201/class06.md)   
+- [class07](./201/class07.md)    
+- [class08](./201/class08.md)    
+- [class09](./201/class09.md)    
+- [class10](./201/class10.md)    
+- [class11](./201/class11.md)   
+- [class12](./201/class12.md)    
+- [class13](./201/class13.md)   
+- [class14](./201/class14.md)   
+- [class15](./201/class15.md)    
+
+### 102
+- [class01](./102/class01.md) 
+- [class02](./102/class02.md) 
+- [class03](./102/class03.md) 
+- [class04](./102/class04.md) 
+- [class05](./102/class05.md) 
+- [class06](./102/class06.md) 
+- [class07](./102/class07.md)
+- [class08](./102/class08.md)  
+
+-------------------------------------------------------------------------------------------
 &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535; &#x1F535;  &#x1F535;  &#x1F535;  &#x1F535;  &#x1F535;  &#x1F535;  &#x1F535;  
 
 **Growth Mindset**  
