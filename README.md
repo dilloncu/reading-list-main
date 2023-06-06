@@ -20,7 +20,7 @@ My name is Dillon, currently enrolled onto Tech Educators based in Norwich. I am
 - travel(trying new foods, seeing different surroundings and hearing different languages is pretty cool)
 - ~~pub(~~**obvs**)
 
-**My Gitbhub Page**  
+**My Github page**  
 [dilloncu](https://github.com/dilloncu)*  
 
 
