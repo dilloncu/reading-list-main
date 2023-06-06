@@ -1,10 +1,1 @@
-#Growth Mindset
-
-
-
-
-
-
-
-
-#About Me
+#Growth Mindset  #About Me
