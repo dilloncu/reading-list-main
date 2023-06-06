@@ -21,7 +21,7 @@ My name is Dillon, currently enrolled onto Tech Educators based in Norwich. I am
 - ~~pub(~~**obvs**)
 
 **My Gitbhub Page**  
-[dilloncu](https://www.markdownguide.org)*  
+[dilloncu](https://github.com/dilloncu)*  
 
 
 $`\textcolor{red}{\text{random gif}}`$   
