@@ -20,10 +20,10 @@ My name is Dillon, currently enrolled onto Tech Educators based in Norwich. I am
 - travel(trying new foods, seeing different surroundings and hearing different languages is pretty cool)
 - ~~pub(~~**obvs**)
 
-**My Github page**  
+**My GitHub page**  
 [dilloncu](https://github.com/dilloncu)*  
 
 
-$`\textcolor{red}{\text{random gif}}`$   
+$`\textcolor{red}{\text{random gif}}`$  
 
 <img src="https://github.com/dilloncu/repo1/assets/83660406/ae87092e-6e66-4c41-9c09-980bcdb6550c" width="200" />
