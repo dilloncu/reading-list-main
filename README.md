@@ -1,6 +1,5 @@
 # Tech Ed Bootcamp  
-
-#### Introduction: General information about growth mindset and a little bit about myself.  
+ 
 ## Table of contents:  
 ### 201
 - [class01](./201/class01.md)   
